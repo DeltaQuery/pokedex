@@ -7,7 +7,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url("../resources/bg.png");
+  background-image: url("./bg.png");
   background-repeat: repeat;
   color: #3c484e;
   font-family: 'Open Sans', sans-serif;
